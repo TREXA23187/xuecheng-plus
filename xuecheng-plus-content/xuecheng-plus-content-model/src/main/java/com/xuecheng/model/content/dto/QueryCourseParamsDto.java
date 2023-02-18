@@ -1,4 +1,4 @@
-package com.xuecheng.model.dto;
+package com.xuecheng.model.content.dto;
 
 import lombok.Data;
 
