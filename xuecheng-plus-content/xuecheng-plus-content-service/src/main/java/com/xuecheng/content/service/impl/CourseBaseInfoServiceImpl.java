@@ -14,12 +14,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @author Mr.M
- * @version 1.0
- * @description 课程信息管理业务接口实现类
- * @date 2022/9/6 21:45
- */
 @Service
 public class CourseBaseInfoServiceImpl implements CourseBaseInfoService {
 
